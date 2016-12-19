@@ -2,7 +2,12 @@ main
 {
 print("helloworld");
 }
-metho()
+metho(string name)
 {
-print "mynameis"";
+print "my name is"+name;
+}
+show()
+{
+string name="–°∑ ≈£";
+metho(name);
 }
